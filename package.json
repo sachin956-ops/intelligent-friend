@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@heroicons/react": "^2.2.0",
+    "framer-motion": "^12.23.12",
+    "react-dropzone": "^14.3.8",
+    "react-simple-typewriter": "^5.0.1"
+  }
+}
